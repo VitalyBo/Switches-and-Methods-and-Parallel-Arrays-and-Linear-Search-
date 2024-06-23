@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches and Methods ( and Parallel Arrays and Linear Search )", "Switches and Methods ( and Parallel Arrays and Linear Search ).csproj", "{B5FF4437-4370-4B60-B0CD-18F510813405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FF4437-4370-4B60-B0CD-18F510813405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FF4437-4370-4B60-B0CD-18F510813405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FF4437-4370-4B60-B0CD-18F510813405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FF4437-4370-4B60-B0CD-18F510813405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AA41E9A-11BD-4E36-AB13-4A459092FF25}
+	EndGlobalSection
+EndGlobal
